@@ -1,6 +1,3 @@
-Certainly! Here’s a more detailed section about what the script does, suitable for adding to your README page, clearly explaining its purpose and features:
-
-````markdown
 ## What does this script do?
 
 FFMPEG-Batch-Convertor is a powerful yet straightforward command-line utility designed to automate the video conversion process for users who need to convert multiple video files in one go. Instead of running manual commands for each individual file, this script allows you to process entire folders or sets of files, saving you time and effort.
@@ -31,7 +28,3 @@ This tool is especially useful for:
 ---
 
 *The script does not contain any video files and works independently by leveraging the FFMPEG tool. No previous experience with FFMPEG is required—just follow the simple prompts and let the tool handle the heavy lifting!*
-
-````
-
-Would you like me to add this expanded section to your README on a specific branch, or would you prefer to edit or combine it further?
