@@ -27,10 +27,35 @@ Make sure you have [FFMPEG](https://ffmpeg.org/) installed and accessible from y
 
 ---
 
+## ⬇️ Download & Run
+
+### 1. Download the ZIP
+
+On the GitHub page for this project:
+
+1. Click the green **Code** button.
+2. Choose **Download ZIP**.
+3. Save and **extract** the ZIP file somewhere on your system.  
+   The ZIP includes:
+   - `ffmpeg-batch-convertor.sh` (the converter script)
+   - `README.md` (this file)
+
+> Alternatively, you can download the ZIP directly from:  
+> `https://github.com/gaijin213/FFMPEG-Batch-Convertor/archive/refs/heads/main.zip`  
+> (adjust branch/URL if your repo or default branch is different)
+
+### 2. Make the script executable
+
+Open a terminal in the extracted folder and run:
+
+```bash
+chmod +x ffmpeg-batch-convertor.sh
+Then run: ./ffmpeg-batch-convertor.sh and then follow the on-screen prompts.
+
 ## ⚡ How It Works
 
 1. 🎯 Place your video files in one folder.
-2. 💬 Run the script and choose your format (`AVI` / `MP4` / `MKV` / `WebM`).
+2. 💬 Run the script, choose your format (`AVI` / `MP4` / `MKV` / `WebM`) and select the input and output.
 3. 🏁 The script automatically processes all files for you.
 4. 📁 Your converted videos appear in the target location — ready to use!
 
