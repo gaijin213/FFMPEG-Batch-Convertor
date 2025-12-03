@@ -40,15 +40,12 @@ On the GitHub page for this project:
    - `ffmpeg-batch-convertor.sh` (the converter script)
    - `README.md` (this file)
 
-> Alternatively, you can download the ZIP directly from:  
-> `https://github.com/gaijin213/FFMPEG-Batch-Convertor/archive/refs/heads/main.zip`  
-> (adjust branch/URL if your repo or default branch is different)
+Alternatively, you can download the ZIP directly from [here](https://github.com/gaijin213/FFMPEG-Batch-Convertor/archive/refs/heads/main.zip).
 
 ### 2. Make the script executable
 
 Open a terminal in the extracted folder and run:
 
-```bash
 chmod +x ffmpeg-batch-convertor.sh
 Then run: ./ffmpeg-batch-convertor.sh and then follow the on-screen prompts.
 
