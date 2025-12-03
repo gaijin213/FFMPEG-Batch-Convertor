@@ -52,6 +52,8 @@ Open a terminal in the extracted folder and run:
 chmod +x ffmpeg-batch-convertor.sh
 Then run: ./ffmpeg-batch-convertor.sh and then follow the on-screen prompts.
 
+---
+
 ## ⚡ How It Works
 
 1. 🎯 Place your video files in one folder.
@@ -61,7 +63,7 @@ Then run: ./ffmpeg-batch-convertor.sh and then follow the on-screen prompts.
 
 ---
 
-## 👤 Who Is It For?
+### 👤 Who Is It For?
 
 - **YouTubers, streamers, & creators** needing consistent formats.
 - **Archivists & collectors** wanting quick batch conversion.
