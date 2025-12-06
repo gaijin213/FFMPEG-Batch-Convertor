@@ -29,18 +29,7 @@ Make sure you have [FFMPEG](https://ffmpeg.org/) installed and accessible from y
 
 ## ⬇️ Download & Run
 
-### 1. Download the ZIP
-
-On the GitHub page for this project:
-
-1. Click the green **Code** button.
-2. Choose **Download ZIP**.
-3. Save and **extract** the ZIP file somewhere on your system.  
-   The ZIP includes:
-   - `ffmpeg-batch-convertor.sh` (the converter script)
-   - `README.md` (this file)
-
-Alternatively, you can download the ZIP directly from [here](https://github.com/gaijin213/FFMPEG-Batch-Convertor/archive/refs/heads/main.zip).
+Simply open the release section and download the script.
 
 ### 2. Make the script executable
 
