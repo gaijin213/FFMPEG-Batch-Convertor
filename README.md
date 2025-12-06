@@ -12,7 +12,7 @@
 No more repetitive manual conversions. No more puzzling over FFMPEG commands. Just specify your source videos, the format you want, and let it AUTO-MAGICALLY process them for you! 🚀
 
 **🖥️ This script is designed for Linux systems.**  
-Make sure you have [FFMPEG](https://ffmpeg.org/) installed and accessible from your terminal.
+The script should detect your system and install FFMPEG for you. If for some reason it fails, make sure you have [FFMPEG](https://ffmpeg.org/) installed and accessible from your terminal.
 
 ---
 
